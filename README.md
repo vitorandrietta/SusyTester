@@ -9,7 +9,7 @@ NÃO SE DEVE ficar trocando rapidamente o valor das opções e clicando indiscri
 
 Qualquer dúvida, sugestão, ou aviso de erro: vitorandrietta@gmail.com
 
-##Download
+##Download (A aplicação tem melhor desempenho em ambiente linux)
 
 - [Susy Tester em JAR] (https://drive.google.com/file/d/0B5QULOuZcf65ODBtZEppSzMyV0U/view?usp=sharing)
 - [Susy Tester em .exe] (https://drive.google.com/file/d/0B5QULOuZcf65bU5YQ1ExOUszVDA/view?usp=sharing)
