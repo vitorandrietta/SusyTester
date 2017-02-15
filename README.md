@@ -24,7 +24,7 @@ Tela Inicial, o primeiro campo ja carrega automaticamente todas as turmas regist
    <img src="https://github.com/vitorandrietta/SusyTester/blob/master/SusyTesterImages/initial.PNG">
 </p>
 
-Após escolher uma turma, todos os laboratórios daquela turma serão carregados por consulta ao site no campo de Laboratório.
+Após escolher uma turma, todos os laboratórios daquela turma serão carregados, por consulta ao site, no campo de Laboratório.
 
 <p align="center">
    <img src="https://github.com/vitorandrietta/SusyTester/blob/master/SusyTesterImages/lab.PNG">
