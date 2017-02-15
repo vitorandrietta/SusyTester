@@ -65,7 +65,7 @@ Diferenças geradas no Linux no primeiro teste (DIF):
    <img src="https://github.com/vitorandrietta/SusyTester/blob/master/SusyTesterImages/linux.png">
 </p>
 
-<center>Quando os testes passam, nao há botao gerado, apenas a informação que o teste passou</center>
+<center>Quando os testes passam, nao há botão gerado, apenas a informação que o teste passou</center>
 
 <p align="center">
    <img src="https://github.com/vitorandrietta/SusyTester/blob/master/SusyTesterImages/OK.PNG">
