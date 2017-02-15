@@ -11,7 +11,7 @@ Qualquer dúvida, sugestão, ou aviso de erro: vitorandrietta@gmail.com
 
 ##Download (A aplicação tem melhor desempenho em ambiente linux)
 
-- [Susy Tester em JAR] (https://drive.google.com/file/d/0B5QULOuZcf65ODBtZEppSzMyV0U/view?usp=sharing)
+- [Susy Tester em JAR] (https://drive.google.com/file/d/0B5QULOuZcf65ODBtZEppSzMyV0U/view?usp=sharing) (Adicionar Permissão de execução para linux)
 - [Susy Tester em .exe] (https://drive.google.com/file/d/0B5QULOuZcf65bU5YQ1ExOUszVDA/view?usp=sharing)
 
 ##Guia de utilização
