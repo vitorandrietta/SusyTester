@@ -19,4 +19,6 @@ Qualquer dúvida, sugestão, ou aviso de erro: vitorandrietta@gmail.com
 ##Guia de utilização
 
 Tela Inicial, o primeiro campo ja carrega automaticamente todas as turmas registradas acessando à pagina do Susy
-![Tela inicial](SusyTesterImages/initial.PNG?raw=true)
+
+<p align="center">![Tela inicial](SusyTesterImages/initial.PNG?raw=true)</p>
+
